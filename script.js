@@ -31,10 +31,14 @@ function mostrarValores() {
         idJogos.innerHTML += 
         `<div id="box">
             <img class="imagem" src="${item.img}">
-            <h1>${item.nome}</h1>
+
+            <div id="info-jogo">
+                <h1>${item.nome}</h1>
+                <p>${item.estado}</p>
+            </div>
+
             <div id="box-unir">
                 <a target="_blank" href="${item.url}">Acessar</a>
-                <p>${item.estado}</p>
             </div>
         </div>`
     })
