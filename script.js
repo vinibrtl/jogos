@@ -18,7 +18,7 @@ const informacoesJogos = [
     { nome: "Palavra 500", url: "https://palavra500.devjunior.cloud", img: "https://palavra500.devjunior.cloud/favicon.ico?favicon.160999e9.ico", estado: "Desbloqueado"},
     { nome: "Fields", url: "https://inkwellgames.com/games/fields?tutorial=true", img: "imgs/fields_icon.png", estado: "Bloqueado"},
     { nome: "Stars", url: "https://inkwellgames.com/games/stars?day=2026-05-26", img: "imgs/stars_icon.png", estado: "Bloqueado"},
-    { nome: "Star Struck", url: "https://www.netflix.com/tudum/puzzled/starstruck/daily", img: "", estado: "Bloqueado"},
+    { nome: "Star Struck", url: "https://www.netflix.com/tudum/puzzled/starstruck/daily", img: "imgs/starstruck_icon.png", estado: "Bloqueado"},
 ]
 
 let arrayFinal = informacoesJogos
