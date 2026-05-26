@@ -17,8 +17,8 @@ const informacoesJogos = [
     { nome: "LinkedIn PinPoint", url: "https://www.linkedin.com/games/pinpoint/", img: "https://media.licdn.com/dms/image/v2/D4E0BAQH11Wt2f4smHg/company-logo_200_200/B4EZWqeqyxHgAM-/0/1742321921502/pinpoint_game_logo?e=1781136000&v=beta&t=5QOdWYYI2XOFbD8GY2fy2IHSQEDTIa711P7045WLCwg", estado: "Desbloqueado"},
     { nome: "Palavra 500", url: "https://palavra500.devjunior.cloud", img: "https://palavra500.devjunior.cloud/favicon.ico?favicon.160999e9.ico", estado: "Desbloqueado"},
     { nome: "Fields", url: "https://inkwellgames.com/games/fields?tutorial=true", img: "imgs/fields_icon.png", estado: "Bloqueado"},
-    { nome: "Star Struck", url: "https://inkwellgames.com/games/stars?day=2026-05-26", img: "imgs/stars_icon.png", estado: "Bloqueado"},
-    { nome: "Stars", url: "https://www.netflix.com/tudum/puzzled/starstruck/daily", img: "", estado: "Bloqueado"},
+    { nome: "Stars", url: "https://inkwellgames.com/games/stars?day=2026-05-26", img: "imgs/stars_icon.png", estado: "Bloqueado"},
+    { nome: "Star Struck", url: "https://www.netflix.com/tudum/puzzled/starstruck/daily", img: "", estado: "Bloqueado"},
 ]
 
 let arrayFinal = informacoesJogos
