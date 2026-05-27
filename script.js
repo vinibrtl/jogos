@@ -19,6 +19,7 @@ const informacoesJogos = [
     { nome: "Fields", url: "https://inkwellgames.com/games/fields?tutorial=true", img: "imgs/fields_icon.png", estado: "Bloqueado"},
     { nome: "Stars", url: "https://inkwellgames.com/games/stars?day=2026-05-26", img: "imgs/stars_icon.png", estado: "Bloqueado"},
     { nome: "Star Struck", url: "https://www.netflix.com/tudum/puzzled/starstruck/daily", img: "imgs/starstruck_icon.png", estado: "Bloqueado"},
+    { nome: "16 Words Sedecordle", url: "https://sedecordlegame.org", img: "https://sedecordlegame.org/favicon-32x32.png", estado: "Bloqueado"},
 ]
 
 let arrayFinal = informacoesJogos
