@@ -27,22 +27,30 @@ resetarValores()
 mostrarValores()
 
 function mostrarValores() {
-    arrayFinal.forEach(item => {
-        idJogos.innerHTML += 
-        `<div id="box">
-            <img class="imagem" src="${item.img}">
+        arrayFinal.forEach(item => {
+            
+            let cor;
 
-            <div id="info-jogo">
-                <h1>${item.nome}</h1>
-                <p>${item.estado}</p>
-            </div>
+            if (item.estado == "Bloqueado"){
+                cor = "red";
+            } else {
+                cor = "white";
+            }
+            idJogos.innerHTML += 
+            `<div id="box">
+                <img class="imagem" src="${item.img}">
 
-            <div id="box-unir">
-                <a target="_blank" href="${item.url}">Acessar</a>
-            </div>
-        </div>`
-    })
-}
+                <div id="info-jogo">
+                    <h1 style="color: ${cor};">${item.nome}</h1>
+                    <p style="color: ${cor};">${item.estado}</p>
+                </div>
+
+                <div id="box-unir">
+                    <a target="_blank" href="${item.url}">Acessar</a>
+                </div>
+            </div>`
+        })
+    }
 
 function resetarValores() {
     idJogos.innerHTML = ""
