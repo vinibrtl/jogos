@@ -21,6 +21,11 @@ const informacoesJogos = [
     { nome: "Stars", url: "https://inkwellgames.com/games/stars?day=2026-05-26", img: "imgs/stars_icon.png", estado: "Bloqueado"},
     { nome: "Star Struck", url: "https://www.netflix.com/tudum/puzzled/starstruck/daily", img: "imgs/starstruck_icon.png", estado: "Bloqueado"},
     { nome: "16 Words Sedecordle", url: "https://sedecordlegame.org", img: "https://sedecordlegame.org/favicon-32x32.png", estado: "Bloqueado"},
+    { nome: "Nerdle", url: "https://nerdle.com", img: "https://nerdlegame.com/favicon.png?002", estado: "Desbloqueado"},
+    { nome: "Wordle", url: "https://www.nytimes.com/games/wordle/index.html", img: "https://www.nytimes.com/games-assets/v2/metadata/wordle-apple-touch-icon.png?v=", estado: "Desbloqueado"},
+    { nome: "Bandle", url: "https://bandle.app/menu", img: "https://bandle.app/favicon.ico", estado: "Desbloqueado"},
+    { nome: "TierMaker", url: "https://tiermaker.com", img: "https://tiermaker.com/images/icons/apple-icon-180x180.png", estado: "Desbloqueado"}
+
 ]
 
 let arrayFinal = informacoesJogos
