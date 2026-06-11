@@ -7,6 +7,7 @@ const informacoesJogos = [
     { nome: "Conexo", url: "https://conexo.ws/pt/", img: "https://conexo.ws/favicon.ico", estado: "Desbloqueado"},
     { nome: "Framed", url: "https://framed.wtf", img: "https://framed.wtf/icons/apple-touch-icon.png", estado: "Desbloqueado"},
     { nome: "MinuteCryptic", url: "https://www.minutecryptic.com", img: "https://www.minutecryptic.com/icon.ico?73f70e8b5bf80676", estado: "Desbloqueado"},
+    { nome: "Enigmático", url: "https://enigmati.co", img: "https://enigmati.co/images/logo_white_bg.svg", estado: "Desbloqueado"},
     { nome: "City Guesser", url: "https://virtualvacation.us/guess", img: "https://virtualvacation.us/static/favicon-32x32.png", estado: "Desbloqueado"},
     { nome: "Would You Rather", url: "https://wouldyourather.app/pt/s/o7fas", img: "https://wouldyourather.app/apple-touch-icon.png", estado: "Desbloqueado"},
     { nome: "LinkedIn Patches", url: "https://www.linkedin.com/games/patches/", img: "https://static.licdn.com/aero-v1/sc/h/evf03pqebsvaxzmgmp8f9vkuv", estado: "Desbloqueado"},
