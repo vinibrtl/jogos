@@ -25,7 +25,7 @@ const informacoesJogos = [
     { nome: "Nerdle", url: "https://nerdle.com", img: "https://nerdlegame.com/favicon.png?002", estado: "Desbloqueado"},
     { nome: "Wordle", url: "https://www.nytimes.com/games/wordle/index.html", img: "https://www.nytimes.com/games-assets/v2/metadata/wordle-apple-touch-icon.png?v=", estado: "Desbloqueado"},
     { nome: "Bandle", url: "https://bandle.app/menu", img: "https://bandle.app/favicon.ico", estado: "Desbloqueado"},
-    { nome: "TierMaker", url: "https://tiermaker.com", img: "https://tiermaker.com/images/icons/apple-icon-180x180.png", estado: "Desbloqueado"}
+    { nome: "TierMaker", url: "https://tiermaker.com", img: "https://tiermaker.com/images/icons/apple-icon-180x180.png", estado: "Desbloqueado"},
     { nome: "MoreOrLess", url: "https://moreorless.io", img: "https://moreorless.io/favicon.ico", estado: "Desbloqueado"}
 ]
 
