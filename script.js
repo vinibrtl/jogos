@@ -61,4 +61,3 @@ function mostrarValores() {
 function resetarValores() {
     idJogos.innerHTML = ""
 }
-TESTEEEEEEEE
