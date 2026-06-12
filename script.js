@@ -49,7 +49,7 @@ function mostrarValores() {
                 <img class="imagem" src="${item.img}">
 
                 <div id="info-jogo">
-                    <h1 style="color: ${cor};">${item.nome}</h1>
+                    <h1 style="color: white;">${item.nome}</h1>
                     <p style="color: ${cor};">${item.estado}</p>
                 </div>
 
