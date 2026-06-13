@@ -78,3 +78,21 @@ a {
 a:hover {
     background-color: #0056b3;
 }
+
+
+@media (max-width: 768px) {
+    #box{
+        flex-direction: column;
+        width: 100%;
+        gap: 20px;
+    }
+    img{
+        width: 150px;
+        height: 150px;
+    }
+    #jogos {
+        display: flex ;
+        flex-direction: collumn;
+    }
+        
+}
