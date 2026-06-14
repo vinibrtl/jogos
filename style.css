@@ -91,7 +91,8 @@ a:hover {
         height: 150px;
     }
     #jogos {
-        display: block ;
+        display: block;
+        margin-bottom: 7px;
     }
         
 }
